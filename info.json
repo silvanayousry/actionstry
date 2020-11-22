@@ -1,0 +1,65 @@
+{"websites" : [
+  {
+      "WebsiteName": "GW Engineering",
+      "OutcomeURL": "https://engineering.glasswallsolutions.com.glasswall-icap.com",
+      "IP": "54.170.84.172",
+      "Flavor": "B: Docker v0.1 ",
+      "OpenPORTS": "443",
+      "OS": "ubuntu-latest",
+      "Infrastructure": null,
+      "Provisioning": null,
+      "Container engine": null
+   
+  },
+  {
+   
+      "WebsiteName": "GW Website",
+      "OutcomeURL": "https://glasswallsolutions.com.glasswall-icap.com",
+      "IP": "54.78.209.23",
+      "Flavor": "A: K8s v0.1 ",
+      "OpenPORTS": "443",
+      "OS": "ubuntu-latest",
+      "Infrastructure": null,
+      "Provisioning": null,
+      "Container engine": null
+ 
+  },
+  {
+   
+      "WebsiteName": "dataport.emma.msrb.org",
+      "OutcomeURL": "https://emma.msrb.org.glasswall-icap.com/",
+      "IP": "3.120.30.57",
+      "Flavor": "E: SOW v0.2 ",
+      "OpenPORTS": "443",
+      "OS": "ubuntu-latest",
+      "Infrastructure": null,
+      "Provisioning": null,
+      "Container engine": null
+   
+  },
+  {
+     "WebsiteName": "UK Zones",
+      "OutcomeURL": "https://uk.zones.com.glasswall-icap.com",
+      "IP": "54.78.104.24",
+      "Flavor": "B: Docker v0.1 ",
+      "OpenPORTS": "443",
+      "OS": "ubuntu-latest",
+      "Infrastructure": null,
+      "Provisioning": null,
+      "Container engine": null
+  
+  },
+  {
+    "WebsiteName": "owasp.org",
+      "OutcomeURL": "https://owasp.org.glasswall-icap.com/",
+      "IP": "34.247.160.95",
+      "Flavor": "SOW v0.2 ",
+      "OpenPORTS": "443",
+      "OS": "ubuntu-latest",
+      "Infrastructure": null,
+      "Provisioning": null,
+      "Container engine": null
+   
+  }
+]
+}
