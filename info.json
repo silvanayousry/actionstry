@@ -1,6 +1,4 @@
-
-  {
-      "WebsiteName": "GW Engineering",
+{ "WebsiteName": "GW Engineering",
       "OutcomeURL": "https://engineering.glasswallsolutions.com.glasswall-icap.com",
       "IP": "54.170.84.172",
       "Flavor": "B: Docker v0.1 ",
